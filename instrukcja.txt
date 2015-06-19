@@ -1,0 +1,6 @@
+Windows:
+1. Zainstalowaæ Pythona ze strony https://www.python.org/downloads/ najlepiej w wersji 2.7.x
+2. uruchomiæ cmd.exe
+3. w linii komend wpisaæ "set path=%path%;C:\python27" aby wskazaæ œcie¿kê gdzie jest zainstalowany python
+4. uruchomiæ program w linii komend przechodz¹c do katalogu w którym siê ten program znajduje i wpisuj¹c "python triangle.py"
+5. 5 testów powinno przejœæ poprawnie
